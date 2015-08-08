@@ -5,9 +5,9 @@
 Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.name         = “HorizontalProgressView"
-  s.version      = “0.9.0”
-  s.summary      = “Horizontal progress view made in in swift."
+  s.name         = "HorizontalProgressView"
+  s.version      = "0.9.0"
+  s.summary      = "Horizontal progress view made in in swift."
 
   s.description  = <<-DESC
                    Horizontal progress view made in swift. Is easily customizable in the storyboard
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "https://github.com/bphenriques/HorizontalProgressView.git", :tag => “0.9.0” }
+  s.source       = { :git => "https://github.com/bphenriques/HorizontalProgressView.git", :tag => "0.9.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
