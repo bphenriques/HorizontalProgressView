@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "HorizontalProgressView"
-  s.version      = "0.9.0"
+  s.version      = "0.9.1"
   s.summary      = "Horizontal progress view made in in swift."
 
   s.description  = <<-DESC
